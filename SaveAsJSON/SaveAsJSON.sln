@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveAsJSON.winforms", "SaveAsJSON.winforms\SaveAsJSON.winforms.csproj", "{F49B4104-82EE-4901-B52A-494AA422340D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveAsJSON.data", "SaveAsJSON.data\SaveAsJSON.data.csproj", "{98399A30-22AF-4E4A-857F-909A00F9E350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49B4104-82EE-4901-B52A-494AA422340D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49B4104-82EE-4901-B52A-494AA422340D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49B4104-82EE-4901-B52A-494AA422340D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49B4104-82EE-4901-B52A-494AA422340D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98399A30-22AF-4E4A-857F-909A00F9E350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98399A30-22AF-4E4A-857F-909A00F9E350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98399A30-22AF-4E4A-857F-909A00F9E350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98399A30-22AF-4E4A-857F-909A00F9E350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A03E47D-A92C-466F-933D-5B2AD77D03CD}
+	EndGlobalSection
+EndGlobal
